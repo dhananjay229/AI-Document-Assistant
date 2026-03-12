@@ -2,6 +2,8 @@
 
 A production-grade **Retrieval-Augmented Generation (RAG)** system built with modern technologies. This application allows users to upload PDF/TXT documents and engage in context-aware conversations powered by Large Language Models (LLMs) and semantic search.
 
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/9d51c4bc-b35a-45c7-b1d4-89373ddab364" />
+
 ---
 
 ## 🚀 Key Features
