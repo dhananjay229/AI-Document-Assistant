@@ -112,6 +112,3 @@ The system includes a `GuardrailsModule` that monitors incoming user queries. It
     - **Correctness**: Overall accuracy of the final response.
 
 ---
-
-## 📄 License
-MIT
